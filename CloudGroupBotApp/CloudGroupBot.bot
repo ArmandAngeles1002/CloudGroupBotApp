@@ -1,0 +1,18 @@
+{
+    "name": "CloudGroupBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "c934f800-3705-11ee-8f30-43cc1318172c",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\VSTS\\CloudGroupBotApp\\CloudGroupBotApp\\CloudGroupBot.bot",
+    "overrides": null
+}

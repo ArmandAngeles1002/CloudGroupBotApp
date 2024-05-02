@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9lXWQuueHmmOzoPR0+bAFlyBCkpTneZ32mqmwSYycII=",
+  "Source": "CloudGroupBotApp",
+  "BasePath": "_content/CloudGroupBotApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CloudGroupBotApp\\wwwroot",
+      "Source": "CloudGroupBotApp",
+      "ContentRoot": "C:\\VSTS\\CloudGroupBotApp\\CloudGroupBotApp\\wwwroot\\",
+      "BasePath": "_content/CloudGroupBotApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\VSTS\\CloudGroupBotApp\\CloudGroupBotApp\\wwwroot\\default.htm",
+      "SourceId": "CloudGroupBotApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\VSTS\\CloudGroupBotApp\\CloudGroupBotApp\\wwwroot\\",
+      "BasePath": "_content/CloudGroupBotApp",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
